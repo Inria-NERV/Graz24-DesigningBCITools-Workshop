@@ -6,8 +6,8 @@
 
 ## Organizers:
 
-- [Marie-Constance Corsi](https://marieconstance-corsi.netlify.app/): Inria Research Scientist, Inria Paris, Nerv project-team, Paris Brain Institute
-- [Arthur Desbois](https://www.linkedin.com/in/arthur-desbois-801a9313a/?originalSubdomain=fr): Research Engineer, Inria Paris, Nerv project-team, Paris Brain Institute
+- [Marie-Constance Corsi](https://marieconstance-corsi.netlify.app/): Inria Research Scientist, Inria Paris, NERV project-team, Paris Brain Institute
+- [Arthur Desbois](https://www.linkedin.com/in/arthur-desbois-801a9313a/?originalSubdomain=fr): Research Engineer, Inria Paris, NERV project-team, Paris Brain Institute
 - [Pierre Clisson](https://clisson.com/): Independent Scientist
 - Bruno Aristimunha: PhD Student, Université Paris-Saclay, Inria TAU, CNRS
 - Pierre Guetschel: Donders Institute for Brain, Cognition and Behaviour, Radboud University, Netherlands
