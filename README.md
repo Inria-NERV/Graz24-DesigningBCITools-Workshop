@@ -1,8 +1,9 @@
 # Graz24-DesigningBCITools-Workshop
 
-[9th Graz Brain-Computer Interface Conference 2024](https://www.tugraz.at/institute/ine/graz-bci-conferences/9th-graz-bci-conference-2024)
-
-*Details coming soon*
+9th Graz Brain-Computer Interface Conference 2024: 
+- [Main website](https://www.tugraz.at/institute/ine/graz-bci-conferences/9th-graz-bci-conference-2024),
+- [Satellite events: Workshop 2](https://www.tugraz.at/institute/ine/graz-bci-conferences/9th-graz-bci-conference-2024/satellite-events#c602357),
+- [Scientific program of the conference](https://www.tugraz.at/fileadmin/user_upload/Institute/INE/BCI_Conference_2024/program.png)
 
 ## Organizers:
 
@@ -26,28 +27,26 @@ Then, you will acquire practical experience through hands-on activities and tuto
 Anyone interested in practical BCIs: neuroscientists, research engineers, developers. Programming or data science skills are great but not required for this workshop.
 
 ## Timetable
-### 10:00 am - 10:10 am - Welcome & opening remarks
+### 10:00 am - 10:15 am - Welcome & opening remarks
 By M.-C. Corsi
 
-### 10:10 am - 10:30 am - Classification features extraction and selection using HappyFeat
-By A. Desbois
-
-### 10:30 am - 10:50 am - Braindecode, Deep Learning for EEG Decoding
-By B. Aristimunha 
-
-### 10:50 am - 11:10 am - Benchmarking EEG pipelines in BCI with MOABB
+### 10:15 am - 10:40 am - Benchmarking EEG pipelines in BCI with **MOABB**
 By P. Guetschel
 
-### 11:10 am - 11:20 am - Break + Q&A
+### 10:40 am - 11:05 am - **Braindecode**, Deep Learning for EEG Decoding
+By B. Aristimunha 
 
-### 11:20 am - 11:40 am - Timeflux presentation
-By Pierre Clisson
+### 11:05 am - 11:30 am - Classification features extraction and selection using **HappyFeat**
+By A. Desbois
 
-### 11:40 am - 12:00 am - c-VEP: an introduction + live demo 
+### 11:30 am - 11:40 am - *Break*
+
+### 11:40 am - 12:05 pm - **Timeflux** presentation
 By P. Clisson
 
-### 12:00 am - 12:45 am - Discussion panel
-Chaired by M.-C. Corsi
+### 12:05 pm - 12:30 pm - **c-VEP**: an introduction + live demo 
+By P. Clisson
 
-### 12:45 am - 1:00 pm - Concluding remarks
+### 12:30 pm - 01:00 pm - Discussion panel & Concluding remarks
+Chaired by M.-C. Corsi
 
