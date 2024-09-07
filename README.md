@@ -11,7 +11,7 @@
 - [Arthur Desbois](https://www.linkedin.com/in/arthur-desbois-801a9313a/?originalSubdomain=fr): Research Engineer, Inria Paris, NERV project-team, Paris Brain Institute
 - [Pierre Clisson](https://clisson.com/): Independent Scientist
 - Bruno Aristimunha: PhD Student, Université Paris-Saclay, Inria TAU, CNRS
-- Pierre Guetschel: Donders Institute for Brain, Cognition and Behaviour, Radboud University, Netherlands
+- [Pierre Guetschel](https://neurotechlab.socsci.ru.nl/author/pierre-guetschel/): Donders Institute for Brain, Cognition and Behaviour, Radboud University, Netherlands
 
   
 ## Abstract:
