@@ -27,26 +27,26 @@ Then, you will acquire practical experience through hands-on activities and tuto
 Anyone interested in practical BCIs: neuroscientists, research engineers, developers. Programming or data science skills are great but not required for this workshop.
 
 ## Timetable
-### 10:00 am - 10:15 am - Welcome & opening remarks
+### 09:00 am - 09:15 am - Welcome & opening remarks
 By M.-C. Corsi
 
-### 10:15 am - 10:40 am - Benchmarking EEG pipelines in BCI with **MOABB**
+### 09:15 am - 09:40 am - Benchmarking EEG pipelines in BCI with **MOABB**
 By P. Guetschel
 
-### 10:40 am - 11:05 am - **Braindecode**, Deep Learning for EEG Decoding
+### 09:40 am - 10:05 am - **Braindecode**, Deep Learning for EEG Decoding
 By B. Aristimunha 
 
-### 11:05 am - 11:30 am - Classification features extraction and selection using **HappyFeat**
+### 10:05 am - 10:30 am - Classification features extraction and selection using **HappyFeat**
 By A. Desbois
 
-### 11:30 am - 11:40 am - *Break*
+### 10:30 am - 10:40 am - *Break*
 
-### 11:40 am - 12:05 pm - **Timeflux** presentation
+### 10:40 am - 11:05 am - **Timeflux** presentation
 By P. Clisson
 
-### 12:05 pm - 12:30 pm - **c-VEP**: an introduction + live demo 
+### 11:05 am - 11:30 am - **c-VEP**: an introduction + live demo 
 By P. Clisson
 
-### 12:30 pm - 01:00 pm - Discussion panel & Concluding remarks
+### 11:30 am - 12:00 pm - Discussion panel & Concluding remarks
 Chaired by M.-C. Corsi
 
